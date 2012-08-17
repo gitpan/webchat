@@ -8,3 +8,4 @@ webchatpp.PL
 manual_test.pl
 t/chat.t
 t/process.t
+META.yml                                 Module meta-data (added by MakeMaker)
